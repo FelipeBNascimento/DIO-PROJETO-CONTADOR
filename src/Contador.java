@@ -1,3 +1,4 @@
+
 public class Contador {
 
     private int numeroUm;
@@ -32,7 +33,7 @@ public class Contador {
             for (int i = 1; i <=interacao ; i++) {
                 System.out.println("Imprimindo numero: " + i);}
             }else{
-                System.out.println("numeroDois menor que numeroUm");
+                System.out.println("numeroDois menor que numeroUm não dá para fazer a interação");
             }
         }
     }
